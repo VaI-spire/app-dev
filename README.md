@@ -14,3 +14,6 @@ my first repository
    
 6. **Fate/Stay Night** (Anime)
    : A protagonist being the boy who never thought he would be the protecter himself and obtaining the power he owned by himself by his other self guiding him, while all in the journey of the real protagonist of the series not knowing that he had a reason for becoming what he was then and now.
+
+
+asd
