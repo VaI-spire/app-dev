@@ -1,7 +1,7 @@
 # app-dev
 my first repository 
 
-##My Favorite Series
+## My Favorite Series ##
 
 1. **Loki** from Marvel
    : The antagonist becoming a protagonist when he realized ==his purpose was never the glory== he would expect, so it entirely changed his characteristics as the Loki who cares.
