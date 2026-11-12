@@ -4,7 +4,7 @@ my first repository
 ## My Favorite Series ##
 
 1. **Loki** from Marvel
-   : The antagonist becoming a protagonist when he realized == his purpose was never the glory == he would expect, so it entirely changed his characteristics as the Loki who cares.
+   : The antagonist becoming a protagonist when he realized ==his purpose was never the glory== he would expect, so it entirely changed his characteristics as the Loki who cares.
    
 2. **Moon Knight** from Marvel
    : The end game being mysterious, the egyptian god inside him still uses his multiple personality disorder without the other 2 personalities knowing there's a 3rd.
